@@ -33,7 +33,6 @@ async function apitest(e) {
     this.reply('正在检测中—————请稍后！')
     textlist = await test(textapilist)
     imglist = await test(imageapilist)
-    musiclist = await test(musicapilist)
     videolist = await test(videoapilist)
     let apilist = [
         {
@@ -42,9 +41,6 @@ async function apitest(e) {
         }, {
             name: '图片API',
             list: imglist
-        },{
-            name: '音乐API',
-            list: musiclist
         },
         {
             name: '视频API',
