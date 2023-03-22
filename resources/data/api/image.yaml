@@ -19,7 +19,7 @@ imagelist:
     islist: false
   - reg: 随机cos
     name: 随机cos
-    url: http://ovooa.com/API/cosplay/api.php
+    url: https://api.vvhan.com/api/moyu?type=json
     desc: 返回一组随机cos图片
     data: ["data", "data"]
     islist: true
@@ -43,7 +43,7 @@ imagelist:
     islist: false
   - reg: 美腿
     name: 美腿
-    url: http://ovooa.com/API/meizi/api.php
+    url: http://ovooa.muban.plus/API/meizi/
     desc: 返回随机一张腿子图片，接受好社死了吗？骚年
     data: ["text"]
     islist: false
