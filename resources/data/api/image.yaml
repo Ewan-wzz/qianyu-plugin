@@ -19,7 +19,7 @@ imagelist:
     islist: false
   - reg: 随机cos
     name: 随机cos
-    url: https://api.vvhan.com/api/moyu?type=json
+    url: http://ovooa.muban.plus/API/cosplay/api.php
     desc: 返回一组随机cos图片
     data: ["data", "data"]
     islist: true
