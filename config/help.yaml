@@ -98,7 +98,7 @@ helplist:
     list:
         title: "QQ音乐点歌"
         desc: "可以点歌，听QQ音乐vip歌曲"
-        icon: " "
+        icon: "165"
   - title: 视频功能
     list:
       - title: "mj"
