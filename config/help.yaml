@@ -94,11 +94,11 @@ helplist:
       # - title: 随机涩图
       #   desc: 返回一张一般涩的二次元图片
       #   icon: "60"
-  - title: 音乐功能
-    list:
-        title: "QQ音乐点歌"
-        desc: "可以点歌，听QQ音乐vip歌曲"
-        icon: "165"
+    #- title: 音乐功能
+    #list:
+    #   title: "QQ音乐点歌"
+    #   desc: "可以点歌，听QQ音乐vip歌曲"
+    #   icon: "165"
   - title: 视频功能
     list:
       - title: "mj"
