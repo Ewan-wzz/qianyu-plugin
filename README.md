@@ -11,5 +11,8 @@
 ### ----------以下为Ewan的话----------
 #### Ewan===》吾甚爱美腿功能，可惜原作者跑路只能fork一下了，修改了美腿和随机cos的api
 #### 使用Github
-`git clone --depth=1 https://github.com/Ewan-wzz/qianyu-plugin.git ./plugins/qianyu-plugin/`
+```
+cd Yunzai-Bot/
+git clone --depth=1 https://github.com/Ewan-wzz/qianyu-plugin.git ./plugins/qianyu-plugin/
+```
 
